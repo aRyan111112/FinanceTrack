@@ -9,11 +9,9 @@ Framework: React.js (Vite)
 
 Styling: Tailwind CSS (for responsive, utility-first design)
 
-State Management: [Insert your choice, e.g., React Context API / Zustand]
+State Management: React-Redux
 
-Data Visualization: [Insert your choice, e.g., Recharts / Chart.js]
-
-Icons: Lucide-React
+Data Visualization: Recharts
 
 ✨ Key Features
 1. Financial Summary & Visualizations
